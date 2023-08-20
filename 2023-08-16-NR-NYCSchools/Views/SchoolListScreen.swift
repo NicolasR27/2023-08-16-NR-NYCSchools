@@ -39,8 +39,8 @@ struct SchoolListScreen: View {
         }
         ToolbarItem(placement: .navigationBarLeading) {
             Text("High schools")
-                .font(.system(.largeTitle, design: .rounded, weight: .bold))
-                .foregroundColor(.publicNavy)
+//                .font(.system(.largeTitle, design: .rounded, weight: .bold))
+                .foregroundColor(.pink)
                 .padding(.bottom, 6)
         }
     }
